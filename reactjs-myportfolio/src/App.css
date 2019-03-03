@@ -17,6 +17,9 @@ text-align: center;
     position: fixed;
 
 }
+.projects-grid{
+    display: flex;
+}
 
 .avatar-image {
     height: 250px;
