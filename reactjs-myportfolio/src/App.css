@@ -39,12 +39,57 @@ text-align: center;
     font-weight: bold;
     color: white;
 }
+/* Contact Css*/
+.contact-body{
+    margin: auto;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    padding-top:2em;
+}
 
+.contact-grid{
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    height: 550px;
+    background: white;
+    color: black;
+
+    margin-bottom: 20px;
+}
+.contact-grid h2{
+    font-family: 'Anton',sans-serif;
+}
+.contact-grid p{
+    font-family: 'Oxygen',sans-serif;
+    font-weight: bold;
+}
+.contact-grid hr{
+    border-top:5px dotted black;
+    width: 50%;
+    margin: auto;
+}
+.contact-list i {
+    font-size: 66px;
+    padding-right: 5rem;
+
+
+}
+.resume-right-col{
+    background: black;
+    color: white;
+}
 .banner-text hr {
     border-top: 5px dot-dot-dash white;
     width: 50%;
     margin: auto;
 }
+.resume-right-col h3{
+    margin-left: 9px;
+}
+
 
 .banner-text p {
     color: white;
